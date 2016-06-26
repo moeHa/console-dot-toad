@@ -1,0 +1,23 @@
+{
+"name": "console-dot-toad",
+"version": "1.0.0",
+"description": "Log with a toad, its as simple as that!",
+"main": "console.toad.js",
+"repository": {
+"type": "git",
+"url": "git+https://github.com/Dafrok/console-dot-toad.git"
+},
+"keywords": [
+"web",
+"toadging",
+"logging",
+"excited",
+"console"
+],
+"author": "Dafrok Zhang <o.o@mug.dog>",
+"license": "MIT",
+"bugs": {
+"url": "https://github.com/Dafrok/console-dot-toad/issues"
+},
+"homepage": "https://github.com/Dafrok/console-dot-toad#readme"
+}
