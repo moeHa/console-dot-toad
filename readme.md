@@ -1,10 +1,10 @@
 # 搞个大新闻 Make a big news
 
-`One copy from [console.frog](https://github.com/tholman/console-dot-frog).`
+`One copy from` [console.frog](https://github.com/tholman/console-dot-frog).
 
 ###console.toad
 
-`console.toad` is an easy way to spice up your development life. Its really that simple! Runs on vanilla javascript, in most modern browsers (the kind that has developer tools!). You can see it live [here](http://tholman.com/console-dot-toad).
+`console.toad` is an easy way to spice up your development life. Its really that simple! Runs on vanilla javascript, in most modern browsers (the kind that has developer tools!).
 
 ### Preview
 
