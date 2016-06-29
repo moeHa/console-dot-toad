@@ -1,6 +1,6 @@
 {
 "name": "console-dot-toad",
-"version": "1.0.1",
+"version": "1.0.2",
 "description": "Log with a toad, its as simple as that!",
 "main": "console.toad.js",
 "repository": {
@@ -9,6 +9,7 @@
 },
 "keywords": [
 "web",
+"toad",
 "toadging",
 "logging",
 "excited",
