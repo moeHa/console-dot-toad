@@ -43,6 +43,6 @@ Wow. That feels good!
 Simply include the `console.toad.js` file into your app!
 
 ###License
-Copyright (c) 2016 Dafrok Zhang - http://dafrok.github.io
+Copyright (c) 2016 moeHa
 
 The MIT License
