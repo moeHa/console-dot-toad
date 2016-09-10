@@ -3,18 +3,18 @@
    *  Console.toad. A better way to log!
    */
 
-  (function dothething() {
+  (function dothething(global) {
 
-    if( !window.console ) {
+    if( !global.console ) {
       return;
     }
 
-    window.console.toad = function() {
+    global.console.toad = function() {
 
       var i,
         css = "color: #333";
 
-      var inBrowser = (typeof window !== 'undefined');
+      var inBrowser = (typeof global !== 'undefined');
 
       var toad;
       if( inBrowser ) {
@@ -54,4 +54,4 @@
         }
       }
     }
-  })();
+  })(this);
