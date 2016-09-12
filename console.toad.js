@@ -14,7 +14,7 @@
       var i,
         css = "color: #333";
 
-      var inBrowser = (typeof global !== 'undefined');
+      var inBrowser = (typeof window !== 'undefined');
 
       var toad;
       if( inBrowser ) {
