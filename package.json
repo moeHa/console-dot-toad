@@ -1,6 +1,6 @@
 {
 "name": "console-dot-toad",
-"version": "1.0.3",
+"version": "1.0.4",
 "description": "Log with a toad, its as simple as that!",
 "main": "console.toad.js",
 "repository": {
