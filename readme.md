@@ -1,6 +1,6 @@
-# 搞个大新闻 Make a big news
+# Real fans, can also identify me even if i become a log.
 
-`One copy from` [console.frog](https://github.com/tholman/console-dot-frog).
+One copy from [console.frog](https://github.com/tholman/console-dot-frog).
 
 ###console.toad
 
