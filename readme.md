@@ -2,7 +2,7 @@
 
 One copy from [console.frog](https://github.com/tholman/console-dot-frog).
 
-###console.toad
+### console.toad
 
 `console.toad` is an easy way to spice up your development life. Its really that simple! Runs on vanilla javascript, in most modern browsers (the kind that has developer tools!).
 
@@ -39,10 +39,10 @@ console.toad("Excited!");
 
 Wow. That feels good!
 
-###Usage
+### Usage
 Simply include the `console.toad.js` file into your app!
 
-###License
+### License
 Copyright (c) 2016 moeHa
 
 The MIT License
